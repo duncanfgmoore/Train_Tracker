@@ -1,0 +1,15 @@
+.jumbotron {
+    text-align: center;
+}
+
+.trainTable {
+    border: 1px solid black;
+}
+
+.inputBorder {
+    border: 1px solid black;
+}
+
+.bottom {
+    margin-bottom: 50px;
+}
