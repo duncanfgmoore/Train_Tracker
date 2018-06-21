@@ -14,6 +14,7 @@ $(document).ready(function() {
 var database = firebase.database();
 
 
+
 $("#submitButton").on("click", function(event){
 
     var trainNameInput = $("#trainNameInput").val();
@@ -36,6 +37,9 @@ $("#submitButton").on("click", function(event){
     $("#destinationInput").val(" ");
     $("#firstTimeInput").val(" ");
     $("#frequencyInput").val(" ");
+
+   
+
 });
 
 

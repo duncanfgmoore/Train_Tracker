@@ -1,13 +1,39 @@
+body {
+    background-image: url("../images/Train-Background.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 .jumbotron {
     text-align: center;
+    background-image: url("../images/jumbotronBackground.jpeg");
+    background-size: 100% 100%;
+    color: white;
+
 }
 
-.trainTable {
-    border: 1px solid black;
+.inputWidth {
+    width: 65%;
 }
 
-.inputBorder {
-    border: 1px solid black;
+#formStyle {
+    background-color: white;
+    margin-top: -17px;
+}
+
+label {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.form-control {
+    width: 85%;
+    margin-left: 15px;
+}
+
+#submitButton {
+    margin-left: 15px;
+    margin-bottom: 15px;
 }
 
 .bottom {
