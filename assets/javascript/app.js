@@ -88,7 +88,14 @@ newRow.append(arrivalTd);
 newRow.append(awayTd);
 
 
+
 $("#trainRows").append(newRow);
+
+removeButton.click(function () {
+    newRow.hide();
+
+    
+})
 
 });
 

@@ -7,11 +7,20 @@ body {
 .jumbotron {
     text-align: center;
    
+}
 
+.trainTable {
+    float: left;
+   
+}
+
+.removeButton {
+    margin-top: 10px;
 }
 
 .inputWidth {
     width: 65%;
+    float: left;
 }
 
 #formStyle {
