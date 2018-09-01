@@ -7,7 +7,7 @@ Application designed to allow input of upcoming train arrivals while at the same
 # Technologies Used
 
 - Firebase
-- MomentJS
+- Moment.JS
 - Javascript
 - JQuery
 - CSS
