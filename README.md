@@ -12,3 +12,6 @@ Application designed to allow input of upcoming train arrivals while at the same
 - JQuery
 - CSS
 - Bootstrap
+
+
+![screenshot](assets/images/trainScreen.jpeg)

@@ -99,20 +99,4 @@ removeButton.click(function () {
 
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 });
