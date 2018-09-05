@@ -13,5 +13,5 @@ Application designed to allow input of upcoming train arrivals while at the same
 - CSS
 - Bootstrap
 
-
+# Screen Shot
 ![screenshot](assets/images/trainScreen.jpeg)
